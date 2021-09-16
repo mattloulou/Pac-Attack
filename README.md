@@ -1,11 +1,11 @@
 # Pac-Attack
 Hello, welcome to our 1v1 Java-based deathmatch Pac Man game!
 
-These are the project files for the Pac-Attack game. To play it, download the project and extract it to a folder of your choice, and then assuming you have Java and an IDE (we used Dr. Java) for it installed, open up "StartingFrame.java" with the IDE, and then compile "StartingFrame.java", and then run "StartingFrame.java".
+This project was created for the final in an ICS3U1 course, and was developed by Matthew Pechen-Berg and Peter Jang.
+
+These are the project files for the Pac-Attack game. To play it, download the project and extract it to a folder of your choice, and then assuming you have Java and an IDE (we used DrJava) for it installed, open up "StartingFrame.java" with the IDE, and then compile "StartingFrame.java", and then run "StartingFrame.java".
 
 After you run the compiled "StartingFrame.java" file, make sure to enter your names into the console for the game to begin playing.
-
-This project was created for the final in an ICS3U1 course, and was developed by Matthew Pechen-Berg and Peter Jang.
 
 Sorry if this does not work on different IDEs, we only developed and tested it for DrJava, as that is what the course required.
 Some of the pixel art used in this project (except for items such as the ground tiles, and a few others), along with certain visual ideas or themes,
