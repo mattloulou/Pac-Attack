@@ -1,0 +1,6 @@
+Pac-Attack Game Log:
+
+Username:          Score:          Time:
+
+player 1            10005          02:17
+player 2              955          02:17
