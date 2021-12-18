@@ -13,3 +13,5 @@ are not original ideas of us, and thus are not under ownership of us, and we do 
 in this project was predominantly original in nature, or potentially aided through the course material.
 
 Thank you very much for taking the time to check out our project! If you have fun playing it, please let us know!
+
+![Pack Attack Promo Image](Images/PacAttackPromo.jpg)
