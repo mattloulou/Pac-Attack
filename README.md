@@ -9,9 +9,11 @@ After you run the compiled "StartingFrame.java" file, make sure to enter your na
 
 Sorry if this does not work on different IDEs, we only developed and tested it for DrJava, as that is what the course required.
 Some of the pixel art used in this project (except for items such as the ground tiles, and a few others), along with certain visual ideas or themes,
-are not original ideas of us, and thus are not under ownership of us, and we do not claim to have ownership over them. However, all of the code used
-in this project was predominantly original in nature, or potentially aided through the course material.
+are not original ideas of us, and thus are not under our ownership, and we do not claim to have ownership over them. However, all of the code used
+in this project was predominantly original in nature, with some aspects being potentially aided through the course material and from the minimal starting template that was mandatory to use.
 
 Thank you very much for taking the time to check out our project! If you have fun playing it, please let us know!
 
 ![Pack Attack Promo Image](Images/PacAttackPromo.jpg)
+
+Note: heavy commenting is due to school assignment criteria.
