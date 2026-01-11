@@ -1,7 +1,7 @@
 # Pac-Attack
 Hello, welcome to our 1v1 Java-based deathmatch Pac Man game!
 
-This project was created for the final in an ICS3U1 course, and was developed by Matthew Pechen-Berg and Peter Jang.
+This project was created for the final in an ICS3U1 high-school course, and was developed by Matthew Pechen-Berg and Peter Jang.
 
 These are the project files for the Pac-Attack game. To play it, download the project and extract it to a folder of your choice, and then assuming you have Java and an IDE (we used DrJava) for it installed, open up "StartingFrame.java" with the IDE, and then compile "StartingFrame.java", and then run "StartingFrame.java".
 
